@@ -1,2 +1,2 @@
 # frontend-designing-task
-internship task to create a static website with modern illustrations
+internship task to create a website with modern illustrations
